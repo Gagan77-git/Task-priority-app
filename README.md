@@ -32,7 +32,7 @@ Tasks can be created, updated, marked as done, or deleted
 👨‍💻 Author
 Gagan KL
 
-📄 License
+📄 License:
 This project is for educational purposes.
 
 Live demo:https://gagan77-git.github.io/Task-priority-app/
