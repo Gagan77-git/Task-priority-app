@@ -29,16 +29,10 @@ Tasks can be created, updated, marked as done, or deleted
  ┣ 📄 script.js
  ┗ 📄 README.md
 
-🎯 Future Enhancements
-📅 Add due dates
-🔍 Search and filter tasks
-🌙 Dark/Light mode
-📱 Mobile responsiveness improvements
-
 👨‍💻 Author
 Gagan KL
 
 📄 License
 This project is for educational purposes.
 
-Live demo:
+Live demo:https://gagan77-git.github.io/Task-priority-app/
